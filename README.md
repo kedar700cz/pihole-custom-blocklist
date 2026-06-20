@@ -1,4 +1,4 @@
-# 🛡️ Kedar700cz Ultimate DNS Blocklist
+# 🛡️ Ultimate DNS Blocklist
 
 An automatically updated, aggregated DNS blocklist designed to block ads, tracking, and telemetry. Built primarily for **Pi-hole**, but fully compatible with AdGuard Home and other DNS sinkholes.
 
@@ -33,7 +33,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-# 🇨🇿 Kedar700cz Ultimátní DNS Blocklist
+# 🇨🇿 Ultimátní DNS Blocklist
 
 Automaticky aktualizovaný, agregovaný DNS blocklist navržený k blokování reklam, sledování a telemetrie. Vytvořeno primárně pro **Pi-hole**, ale plně kompatibilní i s AdGuard Home a dalšími DNS blokátory.
 
